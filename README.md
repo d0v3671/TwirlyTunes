@@ -11,6 +11,9 @@ TwirlyTunes is a supervised academic prototype that uses a fine-tuned MobileNetV
 - **Research paper:** [`docs/AI-Based Smart Baby Soothing System.pdf`](docs/AI-Based%20Smart%20Baby%20Soothing%20System.pdf)
 - **DOI:** https://doi.org/10.5281/zenodo.24016070
 
+<img width="1025" height="1535" alt="image" src="https://github.com/user-attachments/assets/727ef7c3-6b02-4287-b977-8727ea6846c7" />
+
+
 ## Architecture
 
 `INMP441 microphone → Raspberry Pi 4 (log-Mel + TFLite) → majority voting → lullaby (AUX speaker) + ESP32 (USB serial) → L298N → motor`
