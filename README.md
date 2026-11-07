@@ -20,8 +20,6 @@ TwirlyTunes is a supervised academic prototype that uses a fine-tuned MobileNetV
 
 <img width="969" height="766" alt="image" src="https://github.com/user-attachments/assets/cdfc53f6-9e51-479d-853b-1bbb364d3a5a" />
 
-<img width="727" height="708" alt="image" src="https://github.com/user-attachments/assets/4e8ce94a-c572-4b56-8eda-558f8ec0ac12" />
-
 The configuration specifies 2-second audio windows with a 1-second step, a 0.80 score threshold, and at least 6 positive predictions among the most recent 10 windows. The soothing cycle lasts approximately 20 seconds.
 
 ## Reported model evaluation
