@@ -18,6 +18,10 @@ TwirlyTunes is a supervised academic prototype that uses a fine-tuned MobileNetV
 
 `INMP441 microphone → Raspberry Pi 4 (log-Mel + TFLite) → majority voting → lullaby (AUX speaker) + ESP32 (USB serial) → L298N → motor`
 
+<img width="969" height="766" alt="image" src="https://github.com/user-attachments/assets/cdfc53f6-9e51-479d-853b-1bbb364d3a5a" />
+
+<img width="727" height="708" alt="image" src="https://github.com/user-attachments/assets/4e8ce94a-c572-4b56-8eda-558f8ec0ac12" />
+
 The configuration specifies 2-second audio windows with a 1-second step, a 0.80 score threshold, and at least 6 positive predictions among the most recent 10 windows. The soothing cycle lasts approximately 20 seconds.
 
 ## Reported model evaluation
@@ -32,6 +36,9 @@ The configuration specifies 2-second audio windows with a 1-second step, a 0.80 
 | ROC-AUC | 0.9802 |
 
 These are **audio-window classification results**, not measured continuous real-world reliability.
+
+<img width="1189" height="495" alt="image" src="https://github.com/user-attachments/assets/dd54d0e6-4443-40a6-80cf-8be4ebf09d85" />
+
 
 ## Repository layout
 
