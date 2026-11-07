@@ -87,4 +87,4 @@ This prototype must not be used as a standalone baby monitor or left running una
 
 ## Citation and licensing
 
-https://doi.org/10.5281/zenodo.24016070
+[1]C. Dave, K. Choubey, and V. Dokare, “AI-Based Smart Baby Soothing System”, Nov. 06, 2026, Zenodo. doi: 10.5281/zenodo.24016070.
