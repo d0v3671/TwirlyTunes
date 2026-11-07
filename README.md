@@ -87,4 +87,4 @@ This prototype must not be used as a standalone baby monitor or left running una
 
 ## Citation and licensing
 
-Cite the research paper using its Zenodo DOI once registered. The paper and source code may require **different licenses**; obtain agreement from all rights holders before adding a code license. The WAV is described in source as an original test lullaby.
+https://doi.org/10.5281/zenodo.24016070
