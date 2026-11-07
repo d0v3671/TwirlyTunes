@@ -9,7 +9,7 @@ TwirlyTunes is a supervised academic prototype that uses a fine-tuned MobileNetV
 - **Authors:** Chaitanyaa Dave, Kaushiki Choubey, Vedanti Dokare
 - **Institution:** K.J. Somaiya School of Engineering, Somaiya Vidyavihar University, Mumbai, India
 - **Research paper:** [`docs/AI-Based Smart Baby Soothing System.pdf`](docs/AI-Based%20Smart%20Baby%20Soothing%20System.pdf)
-- **DOI:** Add the real Zenodo paper DOI after publication (do not use a placeholder as a citation).
+- **DOI:** https://doi.org/10.5281/zenodo.24016070
 
 ## Architecture
 
