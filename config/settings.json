@@ -1,0 +1,19 @@
+{
+  "microphone_device": "plughw:CARD=INMP441,DEV=0",
+  "capture_rate": 44100,
+  "channel": "left",
+  "step_seconds": 1.0,
+  "cry_probability_threshold": 0.80,
+  "vote_window": 10,
+  "minimum_cry_votes": 6,
+  "minimum_rms": 0.0,
+  "soothing_seconds": 20.0,
+  "cooldown_seconds": 10.0,
+  "esp32_serial_port": "/dev/ttyUSB0",
+  "esp32_baud": 115200,
+  "motor_keepalive_seconds": 0.50,
+  "aux_output_device": "plughw:CARD=Headphones,DEV=0",
+  "lullaby_file": "audio/lullaby.wav",
+  "log_every_n_windows": 5,
+  "csv_logging": false
+}

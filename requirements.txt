@@ -1,0 +1,8 @@
+# Raspberry Pi OS 64-bit / Debian 13 Trixie (Python 3.13)
+ai-edge-litert==2.3.0
+librosa==0.11.0
+numpy>=1.26,<3
+scipy>=1.13
+Pillow>=10
+soundfile>=0.12
+pyserial>=3.5

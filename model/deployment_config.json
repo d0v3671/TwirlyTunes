@@ -1,0 +1,21 @@
+{
+    "model_name": "BabySoother_FineTuned_MobileNetV3Small",
+    "input_shape": [
+        1,
+        224,
+        224,
+        3
+    ],
+    "sample_rate": 8000,
+    "audio_channels": 1,
+    "window_seconds": 2,
+    "n_mels": 64,
+    "n_fft": 512,
+    "hop_length": 128,
+    "fmin": 20,
+    "fmax": 4000,
+    "normalization": "per_example_minmax_0_to_1",
+    "threshold": 0.8,
+    "class_0": "non_cry",
+    "class_1": "baby_cry"
+}
